@@ -11,8 +11,7 @@ p, ul, ol, dl {
 
 article {
   max-width: 620px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto;
 }
 
 h1, h2, h3, h4 {
